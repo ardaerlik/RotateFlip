@@ -1,6 +1,6 @@
 import setuptools
 
-with open("README.md", "r", encoding="utf-8") as fh:
+with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small image editing library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/ardaerlik/RotateFlip",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
