@@ -274,9 +274,3 @@ class RotateFlip(object):
         end_time = time.time()
 
         print(f"Effects are processed in {math.ceil(end_time - start_time)} seconds!")
-
-
-if __name__ == "__main__":
-    image_name = "lone-tree-1934897_1920.jpg"
-    a = RotateFlip(image_name)
-    a.sunset_effect(percent=65)
