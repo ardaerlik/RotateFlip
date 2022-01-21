@@ -1,0 +1,4 @@
+# Python dependencies required
+Pillow>=8.3.1
+openpyxl>=3.0.7
+numpy>=1.19.5
