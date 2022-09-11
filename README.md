@@ -4,7 +4,7 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/RotateFlip?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ardaerlik/RotateFlip?style=plastic)
 ![PyPI - License](https://img.shields.io/pypi/l/RotateFlip?style=plastic)
-![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_message=online&url=https%3A%2F%2Fardaerlik.me)
+![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_message=online&url=https%3A%2F%2Fardaerlik.com)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ardaerlik/RotateFlip?style=plastic)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ardaerlik/RotateFlip?style=plastic)
